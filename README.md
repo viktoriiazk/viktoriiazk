@@ -7,3 +7,5 @@
 📌viktoriia.zakorchemna@gmail.com
 📌Linkedin: https://www.linkedin.com/in/viktoriia-zakorchemna/
 
+p.s. Looking for a job as a Junior Frontend Developer
+
