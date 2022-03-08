@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Frontend Developer👩‍💻
-🗺Current location - Warsaw, Poland 🇵🇱
+🗺Current location - Paris, France 🇫🇷🇱
 
 - 📫 How to reach me: 
 📌viktoriia.zakorchemna@gmail.com
