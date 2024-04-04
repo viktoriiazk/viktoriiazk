@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Frontend Developer👩‍💻
-🗺Current location - Paris, France 🇫🇷🇱
+🗺Current location - Cannes, France 🇫🇷🇱
 
 📫 How to reach me: 
 
